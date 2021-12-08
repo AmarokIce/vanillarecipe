@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "vanillarecipe:squid"
+  },
+  "result": "vanillarecipe:cook_squid",
+  "experience": 0.35,
+  "cookingtime": 100
+}

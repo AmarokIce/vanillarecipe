@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vanillarecipe:caramel"
+    },
+    {
+      "item": "vanillarecipe:chocolate"
+    },
+    {
+      "item": "vanillarecipe:sugaringot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "vanillarecipe:dessert"
+  }
+}

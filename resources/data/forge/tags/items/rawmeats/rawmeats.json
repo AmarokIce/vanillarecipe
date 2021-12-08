@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beef",
+    "minecraft:chicken",
+    "minecraft:cod",
+    "minecraft:mutton",
+    "minecraft:porkchop",
+    "minecraft:rabbit",
+    "minecraft:salmon",
+    "minecraft:tropical_fish",
+    "vanillarecipe:sashimi",
+    "vanillarecipe:bacon",
+    "vanillarecipe:beef_tendon",
+    "vanillarecipe:squid",
+    "vanillarecipe:cook_squid",
+    "vanillarecipe:goat",
+    "vanillarecipe:cook_goat",
+    "vanillarecipe:bat",
+    "vanillarecipe:cook_bat"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:crimson_fungus"
+    },
+    {
+      "item": "vanillarecipe:heal_potion_low"
+    }
+  ],
+  "result": {
+    "item": "vanillarecipe:heal_potion_base"
+  }
+}

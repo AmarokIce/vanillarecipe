@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:carrot"
+  },
+  "result": "vanillarecipe:cook_carrots",
+  "experience": 0.35,
+  "cookingtime": 100
+}
