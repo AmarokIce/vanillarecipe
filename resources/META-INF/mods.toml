@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="All Rights Reserved"
+
+[[mods]]
+    modId="vanillarecipe"
+    version="${file.jarVersion}"
+    displayName="VanillaRecipe"
+    displayURL="https://www.curseforge.com/minecraft/mc-mods/vanillarecipe"
+    issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/vanillarecipe"
+    authors="Strawberry Dragon"
+    credits="Strawberry Dragon"
+    description='''
+    VanillaRecipe mod, a food mod that uses minecraft items as raw materials!
+    '''
