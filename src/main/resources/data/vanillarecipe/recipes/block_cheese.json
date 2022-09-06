@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "key": {
+    "X": {
+      "item": "vanillarecipe:cheese"
+    }
+  },
+  "result": {
+    "item": "vanillarecipe:block_cheese"
+  }
+}

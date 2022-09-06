@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:sugar_cane"
+  },
+  "result": "vanillarecipe:cook_sugar_cane",
+  "experience": 0.35,
+  "cookingtime": 100
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vanillarecipe",
+  "version": "${version}",
+
+  "name": "Vailla Recipes",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Strawberry Dragon",
+    "Amarok Ice (Someoneice)"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "AFL-3.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "club.someoneice.vailla_recipes.VanillaMain"
+    ]
+  },
+  "mixins": [
+    "vanilla_recipes.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

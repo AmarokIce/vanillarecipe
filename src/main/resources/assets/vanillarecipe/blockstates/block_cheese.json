@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillarecipe:block/block_cheese"
+    }
+  }
+}
